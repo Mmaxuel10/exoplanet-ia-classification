@@ -59,7 +59,7 @@
 
 ## ▶️ Execute Agora no Google Colab
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/exoplanet-ia-classification/blob/main/exoplanet_classification.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mmaxuel10/exoplanet-ia-classification/blob/main/exoplanet_classification.ipynb)
 
 ---
 
